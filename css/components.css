@@ -1,7 +1,7 @@
 :root {
   --color-borange: hsl(31, 77%, 52%);
-  --color-dcyan: hsl(184, 100%, 22%);
-  --color-vdcyan: hsl(179, 100%, 13%);
+  --color-dkcyan: hsl(184, 100%, 22%);
+  --color-vdkcyan: hsl(179, 100%, 13%);
   --color-trans-white: hsla(0, 0%, 100%, 0.75);
   --color-vlgray: hsl(0, 0%, 95%);
   --font-1-400: 400 0.9375rem/1.5 "Lexend Deca", sans-serif;
@@ -11,10 +11,10 @@
   color: var(--color-borange);
 }
 .color-dark-cyan {
-  color: var(--color-dcyan);
+  color: var(--color-dkcyan);
 }
 .color-very-dark-cyan {
-  color: var(--color-vdcyan);
+  color: var(--color-vdkcyan);
 }
 .color-trans-white {
   color: var(--color-trans-white);
@@ -27,4 +27,18 @@
 }
 .font-2-700 {
   font: var(--font-2-700);
+}
+.button {
+  width: 100px;
+  padding: 10px;
+  background-color: var(--color-vlgray);
+  border: 2px solid var(--color-vlgray);
+  border-radius: 70px;
+  text-align: center;
+  font-size: 0.75rem !important;
+  transition: 0.2s;
+}
+.button:hover {
+  color: var(--color-vlgray);
+  background: none;
 }

@@ -1,8 +1,10 @@
 body {
   margin: 0;
   padding: 0;
+  width: 100vw;
   height: 100vh;
   font-size: 0.9375rem;
+  background-color: var(--color-vlgray);
 }
 h1,
 h2,
@@ -12,6 +14,9 @@ p,
 span {
   margin: 0;
   padding: 0;
+}
+a {
+  text-decoration: none;
 }
 img {
   display: block;
