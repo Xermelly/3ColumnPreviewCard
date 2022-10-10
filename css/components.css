@@ -1,0 +1,30 @@
+:root {
+  --color-borange: hsl(31, 77%, 52%);
+  --color-dcyan: hsl(184, 100%, 22%);
+  --color-vdcyan: hsl(179, 100%, 13%);
+  --color-trans-white: hsla(0, 0%, 100%, 0.75);
+  --color-vlgray: hsl(0, 0%, 95%);
+  --font-1-400: 400 0.9375rem/1.5 "Lexend Deca", sans-serif;
+  --font-2-700: 700 0.9375rem/1.5 "Big Shoulders Display", sans-serif;
+}
+.color-bright-orange {
+  color: var(--color-borange);
+}
+.color-dark-cyan {
+  color: var(--color-dcyan);
+}
+.color-very-dark-cyan {
+  color: var(--color-vdcyan);
+}
+.color-trans-white {
+  color: var(--color-trans-white);
+}
+.color-very-light-gray {
+  color: var(--color-vlgray);
+}
+.font-1-400 {
+  font: var(--font-1-400);
+}
+.font-2-700 {
+  font: var(--font-2-700);
+}
