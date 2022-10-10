@@ -27,6 +27,8 @@
 }
 .font-2-700 {
   font: var(--font-2-700);
+  font-size: 3rem !important;
+  text-transform: uppercase;
 }
 .button {
   width: 100px;

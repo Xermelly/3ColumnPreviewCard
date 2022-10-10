@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component---OCm822ni)
-- Live Site URL: [Vercel](https://statspreviewcard-theta.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-SgBfXjHCR6)
+- Live Site URL: [Vercel](https://3columnpreviewcard-zeta.vercel.app/)
 
 ## My process
 
